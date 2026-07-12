@@ -27,4 +27,4 @@
 - Индивидуальный интерфейс для включения любых видов авто-сгенерированной документации (JavaDoc и др.)
 
 
-![alt-текст](../_images/codespaces-project.jpeg "текст_подсказки"){width=100 height=100}
+![alt-текст](_images/codespaces-project.jpeg "текст_подсказки"){width=100 height=100}
