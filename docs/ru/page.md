@@ -28,3 +28,6 @@
 
 
 ![alt-текст](_images/codespaces-project.jpeg "текст_подсказки"){width=100 height=100}
+
+
+![](_images/group.svg){inline=false}
